@@ -1,1 +1,1 @@
-# pool-license.
+# pool-license
